@@ -1,7 +1,6 @@
 name: omdb_dart
 description: Dart client for the www.omdbapi.com API . it will return movie detials like year,IMDB Rating, actors,directors,poster and much more  
 version: 0.0.1
-author:
 homepage: https://github.com/viralvaghela/omdb_dart
 
 environment:
@@ -10,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: 0.12.2
+  http:  ^0.12.22
 
 dev_dependencies:
   flutter_test:

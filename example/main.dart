@@ -2,7 +2,7 @@ import 'package:omdb_dart/omdb_dart.dart';
 
 void main() {
   getMovie();
-}
+} 
 
 Future<void> getMovie() async {
   //create object of Omdb class and pass KEY and name of the movie
